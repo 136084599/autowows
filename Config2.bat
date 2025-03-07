@@ -1,3 +1,3 @@
 @echo off
-curl "http://push.zsjczh.fun/message?token=AfPb.df-SfVYMZS" -F "title=½Å±¾" -F "message======Çë×¢Òâ£¡£¡======¼ì²âµ½¹Ò»ú¾¯¸æ£¡======" -F "priority=9"
+curl "http://api.com" -F "title=è„šæœ¬" -F "message======è¯·æ³¨æ„ï¼ï¼======æ£€æµ‹åˆ°æŒ‚æœºè­¦å‘Šï¼======" -F "priority=9"
 pause
